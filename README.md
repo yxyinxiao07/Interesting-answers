@@ -31,7 +31,7 @@ npm run build
 
 题目
 
-![image](https://github.com/yxyinxiao07/github/raw/img/题目.png)
+![image](https://github.com/yxyinxiao07/github/blob/master/img/%E9%A2%98%E7%9B%AE.png)
 
 得分
 
