@@ -28,6 +28,20 @@ npm run build
 # 效果演示
 首页
 
+![image](https://github.com/yxyinxiao07/github/raw/img/首页.png)
+
+题目
+
+![image](https://github.com/yxyinxiao07/github/raw/img/题目.png)
+
+得分
+
+![image](https://github.com/yxyinxiao07/github/raw/img/得分.png)
+
+分享
+
+![image](https://github.com/yxyinxiao07/github/raw/img/分享.png)
+
 
 
 
