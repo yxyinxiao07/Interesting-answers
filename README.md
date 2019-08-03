@@ -28,7 +28,7 @@ npm run build
 # 效果演示
 首页
 
-![image](https://github.com/yxyinxiao07/github/raw/img/首页.png)
+![image](https://github.com/yxyinxiao07/github/blob/master/img/%E5%88%86%E4%BA%AB.png)
 
 题目
 
