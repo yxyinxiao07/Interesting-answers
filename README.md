@@ -2,7 +2,6 @@
 
 >  非常简单的一个vue2 + vuex的项目，整个流程一目了然。
 
->  这个项目主要用于 vue2 + vuex 的入门练习
 
 
 ## 项目运行（nodejs 6.0+）
@@ -28,7 +27,7 @@ npm run build
 # 效果演示
 首页
 
-![image](https://github.com/yxyinxiao07/github/blob/master/img/%E5%88%86%E4%BA%AB.png)
+![image](https://github.com/yxyinxiao07/github/blob/master/img/%E9%A6%96%E9%A1%B5.png)
 
 题目
 
@@ -36,11 +35,11 @@ npm run build
 
 得分
 
-![image](https://github.com/yxyinxiao07/github/raw/img/得分.png)
+![image](https://github.com/yxyinxiao07/github/blob/master/img/%E5%BE%97%E5%88%86.png)
 
 分享
 
-![image](https://github.com/yxyinxiao07/github/raw/img/分享.png)
+![image](https://github.com/yxyinxiao07/github/blob/master/img/%E5%88%86%E4%BA%AB.png)
 
 
 
